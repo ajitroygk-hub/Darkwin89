@@ -1,0 +1,20 @@
+{
+  "name": "darkwin-backend",
+  "version": "1.0.0",
+  "description": "DARKWIN Gaming Platform API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "keywords": ["darkwin", "gaming", "api"],
+  "author": "DarkWin",
+  "license": "MIT"
+}
